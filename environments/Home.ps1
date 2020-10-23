@@ -90,6 +90,7 @@ cinst git --params '/GitOnlyOnPath /NoShellIntegration'
 cinst vscode --params '/NoQuicklaunchIcon' #shortcut
 cinst vscode-settingssync
 cinst docker-desktop  #shortcut
+cinst nswagstudio
 
 #Power Settings 
 powercfg /h on
