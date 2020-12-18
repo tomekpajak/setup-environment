@@ -91,6 +91,7 @@ cinst vscode --params '/NoQuicklaunchIcon' #shortcut
 cinst vscode-settingssync
 cinst docker-desktop  #shortcut
 cinst nswagstudio
+cinst nmap
 
 #Power Settings 
 powercfg /h on
