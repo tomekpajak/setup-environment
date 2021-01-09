@@ -93,6 +93,9 @@ cinst docker-desktop  #shortcut
 cinst nswagstudio
 cinst nmap
 
+#Ssh client on windows 10
+Add-WindowsCapability -Online -Name OpenSSH.Client*
+
 #Power Settings 
 powercfg /h on
 powercfg -change -monitor-timeout-ac 10
