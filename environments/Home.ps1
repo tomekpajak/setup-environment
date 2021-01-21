@@ -92,6 +92,8 @@ cinst vscode-settingssync
 cinst docker-desktop  #shortcut
 cinst nswagstudio
 cinst nmap
+cinst iperf3
+cinst wireshark
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
