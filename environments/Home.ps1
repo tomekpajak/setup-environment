@@ -70,6 +70,7 @@ cinst powertoys
 cinst todobackup
 cinst totalcommander
 cinst rufus
+cinst etcher
 cinst cpu-z  #shortcut
 cinst processhacker  #shortcut
 cinst disk2vhd
