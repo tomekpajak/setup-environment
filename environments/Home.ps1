@@ -94,6 +94,7 @@ cinst nswagstudio
 cinst nmap
 cinst iperf3
 cinst wireshark
+cinst make
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
