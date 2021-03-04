@@ -57,6 +57,7 @@ $env:ChocolateyInstall="$installDir"
 cinst adobereader -params '"/NoUpdates"'
 cinst adobeair
 cinst keepass
+cinst bitwarden
 cinst office2019proplus --params '/Language:pl-PL'
 cinst calibre #shortcut
 
@@ -70,6 +71,7 @@ cinst powertoys
 cinst todobackup
 cinst totalcommander
 cinst rufus
+cinst etcher
 cinst cpu-z  #shortcut
 cinst processhacker  #shortcut
 cinst disk2vhd
@@ -95,6 +97,7 @@ cinst nmap
 cinst iperf3
 cinst wireshark
 cinst make
+cinst terraform
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
