@@ -98,6 +98,7 @@ cinst iperf3
 cinst wireshark
 cinst make
 cinst terraform
+cinst kubernetes-helm
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
