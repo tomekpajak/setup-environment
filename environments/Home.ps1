@@ -76,6 +76,7 @@ cinst cpu-z  #shortcut
 cinst processhacker  #shortcut
 cinst disk2vhd
 cinst treesizefree
+cinst grammarly
 
 cinst kdiff3
 cinst postman #shortcut
