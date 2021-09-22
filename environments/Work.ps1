@@ -101,6 +101,7 @@ cinst terraform
 #cinst kubernetes-helm
 cinst drawio
 cinst dbeaver
+cinst dive
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*

@@ -102,6 +102,7 @@ cinst terraform
 cinst kubernetes-helm
 cinst drawio
 cinst nuget.commandline
+cinst dive
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
