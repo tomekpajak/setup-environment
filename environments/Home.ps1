@@ -103,6 +103,8 @@ cinst kubernetes-helm
 cinst drawio
 cinst nuget.commandline
 cinst dive
+cinst awssamcli
+cinst nvm
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
