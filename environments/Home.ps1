@@ -57,6 +57,7 @@ $env:ChocolateyInstall="$installDir"
 cinst adobereader -params '"/NoUpdates"'
 cinst adobeair
 cinst keepass
+cinst bitwarden
 cinst office2019proplus --params '/Language:pl-PL'
 cinst calibre #shortcut
 
@@ -75,6 +76,7 @@ cinst cpu-z  #shortcut
 cinst processhacker  #shortcut
 cinst disk2vhd
 cinst treesizefree
+cinst grammarly
 
 cinst kdiff3
 cinst postman #shortcut
@@ -95,6 +97,14 @@ cinst nswagstudio
 cinst nmap
 cinst iperf3
 cinst wireshark
+cinst make
+cinst terraform
+cinst kubernetes-helm
+cinst drawio
+cinst nuget.commandline
+cinst dive
+cinst awssamcli
+cinst nvm
 
 #Ssh client on windows 10
 Add-WindowsCapability -Online -Name OpenSSH.Client*
